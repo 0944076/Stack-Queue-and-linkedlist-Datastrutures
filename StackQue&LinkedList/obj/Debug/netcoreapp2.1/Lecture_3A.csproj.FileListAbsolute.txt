@@ -1,0 +1,11 @@
+D:\Dev6\Dev6A\Lecture_3A\bin\Debug\netcoreapp2.1\Lecture_3A.deps.json
+D:\Dev6\Dev6A\Lecture_3A\bin\Debug\netcoreapp2.1\Lecture_3A.runtimeconfig.json
+D:\Dev6\Dev6A\Lecture_3A\bin\Debug\netcoreapp2.1\Lecture_3A.runtimeconfig.dev.json
+D:\Dev6\Dev6A\Lecture_3A\bin\Debug\netcoreapp2.1\Lecture_3A.dll
+D:\Dev6\Dev6A\Lecture_3A\bin\Debug\netcoreapp2.1\Lecture_3A.pdb
+D:\Dev6\Dev6A\Lecture_3A\obj\Debug\netcoreapp2.1\Lecture_3A.csprojAssemblyReference.cache
+D:\Dev6\Dev6A\Lecture_3A\obj\Debug\netcoreapp2.1\Lecture_3A.csproj.CoreCompileInputs.cache
+D:\Dev6\Dev6A\Lecture_3A\obj\Debug\netcoreapp2.1\Lecture_3A.AssemblyInfoInputs.cache
+D:\Dev6\Dev6A\Lecture_3A\obj\Debug\netcoreapp2.1\Lecture_3A.AssemblyInfo.cs
+D:\Dev6\Dev6A\Lecture_3A\obj\Debug\netcoreapp2.1\Lecture_3A.dll
+D:\Dev6\Dev6A\Lecture_3A\obj\Debug\netcoreapp2.1\Lecture_3A.pdb

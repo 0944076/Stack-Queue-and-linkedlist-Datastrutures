@@ -1,0 +1,11 @@
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\hayder lecture 3\Lecture_3A\StackQue\bin\Debug\netcoreapp2.1\StackQue.deps.json
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\hayder lecture 3\Lecture_3A\StackQue\bin\Debug\netcoreapp2.1\StackQue.runtimeconfig.json
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\hayder lecture 3\Lecture_3A\StackQue\bin\Debug\netcoreapp2.1\StackQue.runtimeconfig.dev.json
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\hayder lecture 3\Lecture_3A\StackQue\bin\Debug\netcoreapp2.1\StackQue.dll
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\hayder lecture 3\Lecture_3A\StackQue\bin\Debug\netcoreapp2.1\StackQue.pdb
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\hayder lecture 3\Lecture_3A\StackQue\obj\Debug\netcoreapp2.1\StackQue.csprojAssemblyReference.cache
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\hayder lecture 3\Lecture_3A\StackQue\obj\Debug\netcoreapp2.1\StackQue.csproj.CoreCompileInputs.cache
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\hayder lecture 3\Lecture_3A\StackQue\obj\Debug\netcoreapp2.1\StackQue.AssemblyInfoInputs.cache
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\hayder lecture 3\Lecture_3A\StackQue\obj\Debug\netcoreapp2.1\StackQue.AssemblyInfo.cs
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\hayder lecture 3\Lecture_3A\StackQue\obj\Debug\netcoreapp2.1\StackQue.dll
+C:\Users\El Hamdioui\Desktop\School(HR)\development 6a\hayder lecture 3\Lecture_3A\StackQue\obj\Debug\netcoreapp2.1\StackQue.pdb

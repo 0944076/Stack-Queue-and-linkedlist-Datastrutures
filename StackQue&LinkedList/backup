@@ -1,0 +1,54 @@
+public void AddHead(int New_Data )
+        {
+            Node new_node = new Node(New_Data);
+            new_node.Next = Head;
+            new_node.Previous = null;
+
+            if(Head != null)
+            {
+                Head.Previous = new_node;
+            }
+            Head = new_node;
+        }
+
+        public void AddTail(int New_Data)
+        {
+            Node new_node = new Node(New_Data);
+            Node last = Head;
+            new_node.Next = null;
+
+            if(Head == null)
+            {
+                new_node.Previous = null;
+                Head = new_node;
+                Tail = new_node;
+                return;
+            }
+            
+            while(last.Next != null)
+            {
+                last = last.Next;
+            }
+            last.Next = new_node;
+            new_node.Previous = last;
+
+        }
+
+        public void InsertAfter(Node prev_node, int new_data)
+        {
+            if (prev_node == null)
+            {
+                Console.WriteLine("Ya, you can't do this");
+                return;
+            }
+            
+            Node new_node = new Node(new_data);
+
+            new_node.Next = prev_node.Next;
+            prev_node.Next = new_node;
+
+            if(new_node.Next != null)
+            {
+                new_node.Next.Previous = new_node;
+            }
+        }
